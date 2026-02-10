@@ -1,0 +1,6 @@
+"""this command was used to split the file into multiple text files
+csplit -z bigfile1 /"file name is images"/ {*}
+this should be fixed by not creating one large file but instead creating
+small files instead
+"""
+

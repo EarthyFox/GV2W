@@ -1,0 +1,8 @@
+github runners are used to test the code when pushes are made
+
+
+runners are just machines that run the software that lint (think like clothes lint in dryer) or clean the code to look for errors and test
+
+test is when you run an input against a code and expect a certain output
+
+

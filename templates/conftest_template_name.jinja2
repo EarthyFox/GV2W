@@ -1,0 +1,11 @@
+{% for user in jinja_var.items() %}
+
+{{ jinja_var }}
+hello {{ jinja_var['firstName'] }}
+
+firstName {{ jinja_var['firstName'] }}
+lastName {{ jinja_var['lastName'] }}
+userId {{ jinja_var['userId'] }}
+email {{ jinja_var['email'] }}
+
+{% endfor %}
